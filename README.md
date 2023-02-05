@@ -1,5 +1,5 @@
-# The Watching Eyes
-## Eyes Exercise
+# Eyes
+## The Watching Eyes
 <img src="eye.jpg" width="300">
 In this exercise I created an eye that follows the mouse cusor by using CSS to create and styling the eye and JavaScript function on mouse move to make the eyes move around the creeen as you move your mouse cusor.  
 
